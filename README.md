@@ -1,5 +1,7 @@
 # awesome-spider
 
+更新可用url
+
 收集各种爬虫 （默认爬虫语言为 python）, 欢迎大家 提 pr 或 issue, 收集脚本见此项目 [github-search](https://github.com/facert/github_search)
 
 ### A
@@ -31,7 +33,7 @@
 * [豆瓣图书广度爬取](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90/%E8%B1%86%E7%93%A3%E5%9B%BE%E4%B9%A6%E6%B7%B1%E5%BA%A6%E7%88%AC%E5%8F%96)
 * [DNS记录和子域名](https://github.com/TheRook/subbrute)
 * [DHT网络磁力种子爬虫](https://github.com/chenjiandongx/magnet-dht)
-* [抖音](https://github.com/Python3WebSpider/DouYin)
+* [抖音](https://github.com/Python3WebSpider/DouYin) 20190626可用
 
 ### E
 * [E绅士](https://github.com/shuiqukeyou/E-HentaiCrawler)
