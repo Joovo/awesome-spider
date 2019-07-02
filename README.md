@@ -1,6 +1,9 @@
 # awesome-spider
 
+
+有的spider写很挫，而且年代久远，拿来查请求，不一定好用
 更新可用url
+---------2019-07-02 By Joovo
 
 收集各种爬虫 （默认爬虫语言为 python）, 欢迎大家 提 pr 或 issue, 收集脚本见此项目 [github-search](https://github.com/facert/github_search)
 
@@ -140,7 +143,7 @@
 * [乌云公开漏洞](https://github.com/hanc00l/wooyun_public)
 * [微信公众号](https://github.com/bowenpay/wechat-spider)
 * [“代理”方式抓取微信公众号文章](https://github.com/lijinma/wechat_spider)
-* [网易新闻](https://github.com/armysheng/tech163newsSpider)
+* [网易新闻](https://github.com/armysheng/tech163newsSpider) 20190702不可用
 * [网易精彩评论](https://github.com/dongweiming/commentbox)
 * [微博主题搜索分析](https://github.com/luzhijun/weiboSA)
 * [网易云音乐](https://github.com/RitterHou/music-163)
